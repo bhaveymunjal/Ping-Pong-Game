@@ -31,8 +31,8 @@ This console-based ping pong game was developed using C++. The game allows playe
 
 ## Instructions to Run the Game
 
-1. Clone the repository: `git clone https://github.com/bhaveymunjal/Ping-Pong.git`
-2. Navigate to the project directory: `cd Ping-Pong`
+1. Clone the repository: `git clone https://github.com/bhaveymunjal/Ping-Pong-Game.git`
+2. Navigate to the project directory: `cd Ping-Pong-Game`
 3. Compile the game: `g++ ping.cpp -o ping`
 4. Run the game: `./ping`
 
